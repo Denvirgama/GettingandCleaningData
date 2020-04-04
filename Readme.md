@@ -1,5 +1,5 @@
 ## Getting and Cleaning Data Project
-Author: Akansh Sinha
+Author: Denvir Gama
 Blog Post: Getting and Cleaning Data Review
 
 ## Goal of the Project
